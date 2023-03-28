@@ -1,0 +1,13 @@
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 h1:zDw5v7qm4yH7N8C8uWd+8Ii9rROdgWxQuGoJ9WDXxfk=
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b h1:GgabKamyOYguHqHjSkDACcgoPIz3w0Dis/zJ1wyHHHU=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
+github.com/go-gl/mathgl v1.0.0 h1:t9DznWJlXxxjeeKLIdovCOVJQk/GzDEL7h/h+Ro2B68=
+github.com/go-gl/mathgl v1.0.0/go.mod h1:yhpkQzEiH9yPyxDUGzkmgScbaBVlhC06qodikEM0ZwQ=
+github.com/huoshan017/assimp v0.0.0-20221230103159-7f614b12307c h1:NH44VPMrXpiaWuJvWWSt2xvxV5+wi1nmlAF0gPbZ/Tw=
+github.com/huoshan017/assimp v0.0.0-20221230103159-7f614b12307c/go.mod h1:9vO2F26ySrTJdsXHdzPvUABCE6wXa3OW4rEL22V8ar4=
+github.com/huoshan017/go-stbi v0.0.0-20221226102238-6977d05ee81d h1:BZCsCUvUv6i0Du4RjiBR8jLk82dYWXnU+vCaf/2SNSc=
+github.com/huoshan017/go-stbi v0.0.0-20221226102238-6977d05ee81d/go.mod h1:ddaI0HpHWJT2V3Xd8qQgNbM73eY4J6s2xWRZTouv69Y=
+golang.org/x/image v0.0.0-20190321063152-3fc05d484e9f h1:FO4MZ3N56GnxbqxGKqh+YTzUWQ2sDwtFQEZgLOxh9Jc=
+golang.org/x/image v0.0.0-20190321063152-3fc05d484e9f/go.mod h1:kZ7UVZpmo3dzQBMxlp+ypCbDeSB+sBbTgSJuh5dn5js=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
